@@ -1,6 +1,6 @@
 <h1>Challenge Amigo Secreto</h1>
 
-<p>Este es el ultimo ejercicio del curso de preeleccion del programa one de alura latam</p>
+<p>Este es el ultimo ejercicio del curso de preeleccion del programa one de alura latam.</p>
 
 <p>El cual consistia en crear un juego donde podemos ingresar los nombres de varios amigos y el programa se encarga de sortear y elegir un amigo al azar.</p>
 
