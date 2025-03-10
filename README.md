@@ -15,7 +15,14 @@ click en el botón sortear amigos y de esa manera el programa seleccionará al a
 "¡¡Felicidades!! el amigo secreto eligido es: (el nombre elegido por el programa). para comenzar con uno nuevo juego puedes resetear y borrar la el resultado anterior con el botón reiniciar juego.
 </p>
 
-<h6>Tal y como lo podemos ver en el siguiente video</h6>
+<h4>Tal y como lo podemos ver en el siguiente video</h4>
 
 https://github.com/user-attachments/assets/9ac18f36-307f-4b4b-b3d9-882926ce3bb4
 
+<h3>Conclusiones</h3>
+
+<p>Este proyecto fue todo un reto para mi, ya que no sabia absolutamente nada sobre programación pero siento que aprendí mucho con estos cursos del programa one que me brindo el equipo de alura y me siento muy feliz y agradecido por ello. además de lo aprendido a nivel de programación y código también tuve la oportunidad de adentrarme en otros temas que considero muy importantes para nosotros los estudiantes y profesionales y tiene que ver con el desarrollo personal y profesional, la gestión del tiempo y priorización de tareas, manejo de herramientas como git, github y chatgpt, entre otras.</p>
+
+<p>Durante el desarrollo de estos cursos y de este proyecto, descubrí la importancia de establecer metas claras y alcanzables. esto me ayudo mucho a mantener el enfoque y la motivación para continuar apesar de las dificultades que se presentaron, pero el proyecto final resulto ser un éxito ya que logré realizar el challenge amigo secreto y quede muy contento con el resultado.</p>
+
+<p>Quiero dar mis mas sinceros agradecimientos a todo el equipo humano de alura, porque son grandes personas y profesionales que dedicaron su tiempo para explicarnos muy bien todos y cada uno de los temas contenidos en los cursos, me gustaria seguir avanzando en el programa para poder aprender mucho mas de ellos. Muchas gracias y muchas bendiciones.</p>
